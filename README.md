@@ -1,13 +1,13 @@
 # Netflix Dataset: Cleaning and Preprocessing
 
-## 🎯 Objective
+##  Objective
 The goal of this project was to clean and preprocess the "Netflix Movies and TV Shows" dataset from Kaggle. The process involved handling missing values, removing duplicates, and standardizing data formats to prepare the data for analysis.
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 - Python (3.x)
 - Pandas library
 
-## 🧹 Cleaning Process
+##  Cleaning Process
 The raw dataset was cleaned using a Python script that performed the following steps:
 
 1.  **Handled Missing Values**:
